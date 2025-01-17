@@ -34,7 +34,7 @@ Feel free to check out my repositories, open an issue, or contribute to any of m
 
 - **Email**: keerthishivateja@gmail.com 
 - **LinkedIn**: https://www.linkedin.com/in/shivatejakeerthi4/ 
-- **Portfolio**: 
+- **Portfolio**: https://shivatejakeerthi.github.io/
 
 ---
 
